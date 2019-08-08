@@ -1,0 +1,23 @@
+{
+  "name": "speech-detector",
+  "version": "1.0.0",
+  "description": "Day 18: Speech Detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start --directory --server --files \"*.css, *.html, *.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnayoOleru/Speech-Detector.git"
+  },
+  "author": "AnayoOleru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnayoOleru/Speech-Detector/issues"
+  },
+  "homepage": "https://github.com/AnayoOleru/Speech-Detector#readme",
+  "dependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
